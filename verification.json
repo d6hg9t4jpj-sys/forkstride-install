@@ -1,0 +1,36 @@
+{
+  "result": "PASS",
+  "distribution": "ad-hoc",
+  "version": "1.0",
+  "build": "1",
+  "targets": [
+    "com.goofergames.forkstride",
+    "com.goofergames.forkstride.watchkitapp",
+    "com.goofergames.forkstride.watchkitapp.widgets",
+    "com.goofergames.forkstride.widgets"
+  ],
+  "profiles": [
+    {
+      "target": "com.goofergames.forkstride",
+      "deviceCount": 1,
+      "expires": "2027-09-12 18:34:41"
+    },
+    {
+      "target": "com.goofergames.forkstride.watchkitapp",
+      "deviceCount": 1,
+      "expires": "2027-09-12 18:34:41"
+    },
+    {
+      "target": "com.goofergames.forkstride.widgets",
+      "deviceCount": 1,
+      "expires": "2027-09-12 18:34:41"
+    },
+    {
+      "target": "com.goofergames.forkstride.watchkitapp.widgets",
+      "deviceCount": 1,
+      "expires": "2027-09-12 18:34:41"
+    }
+  ],
+  "physicalDeviceRuntimeApproved": false,
+  "ipaSHA256": "31ab1df92168f1e204934d58be7f72c90c0c6c4b6d2ce4b7a4be86c7db65109c"
+}
