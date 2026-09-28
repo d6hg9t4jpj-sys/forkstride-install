@@ -2,8 +2,14 @@
   "result": "PASS",
   "distribution": "ad-hoc",
   "version": "1.0",
-  "build": "4",
-  "sourceCommit": "9872941c37a1b629f64c4d6dc1de65b193e0811e",
+  "build": "5",
+  "sourceArchive": "Forkstride-Localization-RC4.zip",
+  "sourceSHA256": "96b77e5233cdf0679ed758bd352753841ba62a9fb3201ba216041b347f36077c",
+  "languages": [
+    "en",
+    "fr",
+    "nl"
+  ],
   "authorizedWatchIncluded": true,
   "targets": [
     "com.goofergames.forkstride",
@@ -34,8 +40,8 @@
     }
   ],
   "physicalDeviceRuntimeApproved": false,
-  "ipaSHA256": "abe9649a98d66cf04b72341291e2b4021b1bba592fcb303fe55c8846bb5d3977",
-  "nativeCI": "https://github.com/d6hg9t4jpj-sys/forkstride/actions/runs/36420206620",
-  "signingRun": "https://github.com/d6hg9t4jpj-sys/goofer-apple-native-tests/actions/runs/36422386806",
-  "deviceScopeUnchangedFromBuild3": true
+  "ipaSHA256": "f49457a22eeee1b2b2ac059c5247c16e8132a5f626a5735282e9645bbfac702c",
+  "nativeCI": "https://github.com/d6hg9t4jpj-sys/forkstride/actions/runs/36435669300",
+  "signingRun": "https://github.com/d6hg9t4jpj-sys/goofer-apple-native-tests/actions/runs/36437543331",
+  "deviceScopeUnchangedFromBuild4": true
 }
