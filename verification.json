@@ -2,7 +2,8 @@
   "result": "PASS",
   "distribution": "ad-hoc",
   "version": "1.0",
-  "build": "2",
+  "build": "3",
+  "sourceCommit": "e2b837e",
   "authorizedWatchIncluded": true,
   "targets": [
     "com.goofergames.forkstride",
@@ -33,5 +34,5 @@
     }
   ],
   "physicalDeviceRuntimeApproved": false,
-  "ipaSHA256": "c4ddc0fd1628cd54f2db8108bbac9a2493cc2a6ffb5f269defbdd759241e8740"
+  "ipaSHA256": "68ca4a490072a43c7d1c912f2ae056f54ec62b2ee5fd2a2764722accc743dd51"
 }
