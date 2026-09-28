@@ -2,8 +2,8 @@
   "result": "PASS",
   "distribution": "ad-hoc",
   "version": "1.0",
-  "build": "3",
-  "sourceCommit": "e2b837e",
+  "build": "4",
+  "sourceCommit": "9872941c37a1b629f64c4d6dc1de65b193e0811e",
   "authorizedWatchIncluded": true,
   "targets": [
     "com.goofergames.forkstride",
@@ -34,5 +34,8 @@
     }
   ],
   "physicalDeviceRuntimeApproved": false,
-  "ipaSHA256": "68ca4a490072a43c7d1c912f2ae056f54ec62b2ee5fd2a2764722accc743dd51"
+  "ipaSHA256": "abe9649a98d66cf04b72341291e2b4021b1bba592fcb303fe55c8846bb5d3977",
+  "nativeCI": "https://github.com/d6hg9t4jpj-sys/forkstride/actions/runs/36420206620",
+  "signingRun": "https://github.com/d6hg9t4jpj-sys/goofer-apple-native-tests/actions/runs/36422386806",
+  "deviceScopeUnchangedFromBuild3": true
 }
