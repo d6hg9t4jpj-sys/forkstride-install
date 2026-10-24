@@ -2,10 +2,10 @@
   "result": "PASS",
   "distribution": "ad-hoc",
   "version": "1.0",
-  "build": "7",
-  "sourceArchive": "Forkstride-Barcode-Build7.zip",
-  "sourceSHA256": "706a5ae18b351bd5b3db89dc47dae77c94ac238065774a7be6aff52c922e31a2",
-  "sourceCommit": "354ed96bbdef9accce175825df2df90c61b90932",
+  "build": "8",
+  "sourceArchive": "Forkstride-Camera-Build8.zip",
+  "sourceSHA256": "f27c2daac96efd1812d0702ffce7e6ba2e782d12e62642797423cb511ef6e824",
+  "sourceCommit": "4aefea42b1f99cb34f215a1a483e9c098ed2d9f8",
   "europeanFoods": 4865,
   "languages": [
     "en",
@@ -42,9 +42,9 @@
     }
   ],
   "physicalDeviceRuntimeApproved": false,
-  "ipaSHA256": "e34d1be255d396cb64b185e3ee8710392e32d4ba38b33567056f04657aa86416",
-  "nativeCI": "https://github.com/d6hg9t4jpj-sys/forkstride/actions/runs/40073221243",
-  "signingRun": "https://github.com/d6hg9t4jpj-sys/goofer-apple-native-tests/actions/runs/40073934676",
+  "ipaSHA256": "e90ff2b82910eb7c259c3d660cbaa0dd2f9f2fe38f5cdf442c7d867a1da7fbc4",
+  "nativeCI": "https://github.com/d6hg9t4jpj-sys/forkstride/actions/runs/40119429147",
+  "signingRun": "https://github.com/d6hg9t4jpj-sys/goofer-apple-native-tests/actions/runs/40120308230",
   "deviceScopeUnchangedFromBuild6": true,
   "approvedCurrentThreeDeviceProfiles": true,
   "deviceProfileApprovalDate": "2026-10-24"
