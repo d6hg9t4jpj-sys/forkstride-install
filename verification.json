@@ -2,10 +2,10 @@
   "result": "PASS",
   "distribution": "ad-hoc",
   "version": "1.0",
-  "build": "6",
-  "sourceArchive": "Forkstride-European-Build6.zip",
-  "sourceSHA256": "946b0041376f0963bdddbccbeb41ac76b595613126217974f821608ffc0f23fe",
-  "sourceCommit": "7303bc828b7d7a397692aa1c6be3c488e1add753",
+  "build": "7",
+  "sourceArchive": "Forkstride-Barcode-Build7.zip",
+  "sourceSHA256": "706a5ae18b351bd5b3db89dc47dae77c94ac238065774a7be6aff52c922e31a2",
+  "sourceCommit": "354ed96bbdef9accce175825df2df90c61b90932",
   "europeanFoods": 4865,
   "languages": [
     "en",
@@ -42,10 +42,10 @@
     }
   ],
   "physicalDeviceRuntimeApproved": false,
-  "ipaSHA256": "1abe12c569143898e04201a8e54e610e6ad552c81c6e20898610b6b6ca42f589",
-  "nativeCI": "https://github.com/d6hg9t4jpj-sys/forkstride/actions/runs/40033857442",
-  "signingRun": "https://github.com/d6hg9t4jpj-sys/goofer-apple-native-tests/actions/runs/40070748593",
-  "deviceScopeUnchangedFromBuild5": false,
+  "ipaSHA256": "e34d1be255d396cb64b185e3ee8710392e32d4ba38b33567056f04657aa86416",
+  "nativeCI": "https://github.com/d6hg9t4jpj-sys/forkstride/actions/runs/40073221243",
+  "signingRun": "https://github.com/d6hg9t4jpj-sys/goofer-apple-native-tests/actions/runs/40073934676",
+  "deviceScopeUnchangedFromBuild6": true,
   "approvedCurrentThreeDeviceProfiles": true,
   "deviceProfileApprovalDate": "2026-10-24"
 }
